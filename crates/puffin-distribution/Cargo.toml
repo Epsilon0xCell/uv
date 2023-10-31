@@ -1,0 +1,17 @@
+[package]
+name = "puffin-distribution"
+version = "0.1.0"
+edition = { workspace = true }
+rust-version = { workspace = true }
+homepage = { workspace = true }
+documentation = { workspace = true }
+repository = { workspace = true }
+authors = { workspace = true }
+license = { workspace = true }
+
+[dependencies]
+distribution-filename = { path = "../distribution-filename" }
+pep440_rs = { path = "../pep440-rs" }
+puffin-package = { path = "../puffin-package" }
+
+anyhow = { workspace = true }

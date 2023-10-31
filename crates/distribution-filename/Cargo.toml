@@ -10,8 +10,8 @@ authors = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
+pep440_rs = { path = "../pep440-rs" }
 platform-tags = { path = "../platform-tags" }
 puffin-package = { path = "../puffin-package" }
-pep440_rs = { path = "../pep440-rs" }
 
 thiserror = { workspace = true }
