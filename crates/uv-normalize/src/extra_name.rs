@@ -6,7 +6,7 @@ use serde::{Deserialize, Deserializer, Serialize};
 
 use crate::{validate_and_normalize_owned, validate_and_normalize_ref, InvalidNameError};
 
-/// The normalized name of an extra dependency group.
+/// The normalized name of an extra dependency.
 ///
 /// Converts the name to lowercase and collapses runs of `-`, `_`, and `.` down to a single `-`.
 /// For example, `---`, `.`, and `__` are all converted to a single `-`.
