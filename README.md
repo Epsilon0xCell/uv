@@ -1,3 +1,7 @@
+![Banner: a silver bullet train streaking in a long blur through a bright glass roofed station, the platforms still on both sides and one small cardboard parcel standing untouched on the platform edge in the foreground](banner.png)
+
+<p align="center"><img src="logo.png" alt="uv logo: a flat illustration of the silver nose of a bullet train seen head on inside a grey ring, blue speed streaks sweeping past its sides and one small yellow signal lamp lit above it" width="200"></p>
+
 # uv
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
